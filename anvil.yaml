@@ -12,3 +12,7 @@ services:
   server_config: {}
 startup_form: Form1
 metadata: {title: Elements, description: Elements}
+dependencies:
+- dep_id: dep_nt8pgsd37l7t5
+  version: {dev: false}
+  resolution_hints: {app_id: C6ZZPAPN4YYF5NVJ, name: Anvil Extras, package_name: anvil_extras}
